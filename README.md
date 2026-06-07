@@ -22,19 +22,16 @@ This project is a console-based Tic Tac Toe game developed using Java. The game 
 ## Sample Gameplay
 
 1 | 2 | 3
---+---+--
 4 | 5 | 6
---+---+--
 7 | 8 | 9
 
-Player X enter position: 1
-Player O enter position: 5
-Player X enter position: 2
-Player O enter position: 8
+Player X enter position: 1,
+Player O enter position: 5,
+Player X enter position: 2,
+Player O enter position: 8,
 Player X enter position: 3
 
 Player X Wins!
-```
 
 ## Learning Outcomes
 
